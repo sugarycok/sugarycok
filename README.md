@@ -44,5 +44,5 @@
 
  | LSTM을 이용한 주가 예측 |
  |:---:|
- |[주가 예측 프로젝트(현재 진행중)](https://github.com/sugarycok/capstone.git)|
+ |[주가 예측 프로젝트(최종)](https://github.com/sugarycok/final_chart.git)|
 </div>
